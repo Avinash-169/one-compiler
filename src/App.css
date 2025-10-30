@@ -1,0 +1,5 @@
+/* Highlight error line in editor */
+.errorHighlight {
+  background-color: rgba(255, 0, 0, 0.2) !important;
+  border-left: 3px solid #ff5555 !important;
+}
